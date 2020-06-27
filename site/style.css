@@ -1,0 +1,38 @@
+body
+{
+  background-color:;
+  background-repeat: repeat, repeat;
+  background-size:1080px 1080px;
+
+background-image:url("https://wallup.net/wp-content/uploads/2016/05/26/201733-digital_art-minimalism-men-face-artwork-portrait-suits-lightbulb-broken-glass-black_background.jpg");
+    background-blend-mode: lighten;
+}
+.div1
+{
+  text-align:center;
+  color:Aliceblue;
+  font-family:Courier New;
+  border:solid 2px ;
+  border-color:AliceBlue;
+  text-shadow:2px 2px gold;
+
+  padding:9px;
+  
+}
+.div2
+{
+  
+color:Aliceblue;
+  font-family:Courier New;
+}
+h2
+{
+  color:Aliceblue;
+}
+canvas
+{
+  
+  border:solid 1px Aliceblue;
+  height:400px;
+  
+}
